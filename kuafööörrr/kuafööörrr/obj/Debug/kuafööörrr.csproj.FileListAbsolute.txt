@@ -1,0 +1,13 @@
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\bin\Debug\kuafööörrr.exe.config
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\bin\Debug\kuafööörrr.exe
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\bin\Debug\kuafööörrr.pdb
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.csproj.AssemblyReference.cache
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.csproj.SuggestedBindingRedirects.cache
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.Form1.resources
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.Form2.resources
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.Properties.Resources.resources
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.csproj.GenerateResource.cache
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.csproj.CoreCompileInputs.cache
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.exe
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.pdb
+C:\Users\svndk\OneDrive\Pictures\C#\kuafööörrr\kuafööörrr\obj\Debug\kuafööörrr.Form3.resources

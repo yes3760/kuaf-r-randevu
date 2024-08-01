@@ -1,0 +1,54 @@
+İsim: yunus emre
+Soyisim: cdsc
+Telefon No: 55555555555
+PersonelAd: yunus  sevindik
+Randevu Saati: 23.05.2024 15:57:05
+Randevu Tipi: AĞDA
+Fiyat: ₺220,00
+Randevu Tarihi: 2024-05-23
+----------
+İsim: a
+Soyisim: a
+Telefon No: 55555555555
+PersonelAd: nazım can bişkin bişkin
+Randevu Saati: 23.05.2024 15:57:05
+Randevu Tipi: Ense
+Fiyat: ₺120,00
+Randevu Tarihi: 2024-05-23
+----------
+İsim: f
+Soyisim: f
+Telefon No: 56748333333
+PersonelAd: yunus  sevindik
+Randevu Saati: 23.05.2024 16:57:05
+Randevu Tipi: Ense
+Fiyat: ₺120,00
+Randevu Tarihi: 2024-05-23
+----------
+İsim: YUNUS 
+Soyisim: ERMRE
+Telefon No: 55555555555
+PersonelAd: bc a
+Randevu Saati: 23.05.2024 18:05:46
+Randevu Tipi: MASKE
+Fiyat: ₺520,00
+Randevu Tarihi: 2024-05-23
+----------
+İsim: HÜSEYİN
+Soyisim: SEVİNDİK
+Telefon No: 5313035139
+PersonelAd: ahmet aaaa
+Randevu Saati: 19.06.2024 10:00:00
+Randevu Tipi: Saç
+Fiyat: ₺50,00
+Randevu Tarihi: 2024-06-20
+----------
+İsim: hüseyin ali 
+Soyisim: sevindik
+Telefon No: 05313035139
+PersonelAd: aaaaa aaaaaaa
+Randevu Saati: 31.07.2024 15:00:00
+Randevu Tipi: Ense
+Fiyat: ₺120,00
+Randevu Tarihi: 2024-08-05
+----------

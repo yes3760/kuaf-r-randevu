@@ -1,0 +1,9 @@
+İsim: yunus
+Soyisim: a
+Telefon No: 55555555555
+PersonelAd: yunus  sevindik
+Randevu Saati: 23.05.2024 15:40:22
+Randevu Tipi: AĞDA
+Fiyat: ₺220,00
+Randevu Tarihi: 2024-05-23
+----------
